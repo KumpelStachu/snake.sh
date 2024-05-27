@@ -1,0 +1,1 @@
+Gracz steruje wężem za pomocą klawiszy WSAD. Jabłka są generowane losowo na planszy. Po zebraniu jabłka, jego pozycja jest resetowana, a wąż wydłuża się o jeden kwadrat. Prędkość węża jest regulowana za pomocą zmiennej, która jest zwiększana po zebraniu każdego jabłka.
